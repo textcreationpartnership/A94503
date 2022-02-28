@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the inhabitants and souldery of the city of London grace, mercy and peace from God our Father, and from the Lord Jesus Christ.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94503</idno>
+            <idno type="STC">Wing T1487</idno>
+            <idno type="STC">Thomason 669.f.20[75]</idno>
+            <idno type="STC">ESTC R212231</idno>
+            <idno type="EEBO-CITATION">99870873</idno>
+            <idno type="PROQUEST">99870873</idno>
+            <idno type="VID">163491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the inhabitants and souldery of the city of London grace, mercy and peace from God our Father, and from the Lord Jesus Christ.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>A letter giving warning of a "great and dreadful judgement suddenly to approach, a judgement by fire and sword." -- Cf. Thomason catalogue.</note>
+                  <note>Annotation on Thomason copy: "scatered about ye street 19 March 165 [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+               <term>London (England) --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163491:1" rendition="simple:additions"/>
+            <head>
+               <hi>TO THE INHABITANTS AND SOULDERY OF THE City of London;</hi> Grace, Mercy and Peace from God our Father, and from the Lord JES<g ref="char:V">Ʋ</g>S CHRIST.</head>
+            <opener>
+               <salute>Chriſtian Brethren,</salute>
+            </opener>
+            <p>OMitting a tedious and needleſs Preamble, Theſe are in the Name of Almighty God, to inform you, that there is a great and dreadful Judge<g ref="char:EOLhyphen"/>ment ſuddenly to approach your City of <hi>London;</hi> a Judgment by <hi>Fire</hi> and <hi>Sword.</hi> Ye know how wicked and rebellious ye have been, both againſt GOD himſelf, by robbing and prophaneing his Sanctuary, perſecuting his Miniſters, and overturning (as much as in you lay) his right and true Worſhip: As alſo againſt his Vice-gerent, our Soveraign KING that late was; whom ye firſt illegally dethroned, then after<g ref="char:EOLhyphen"/>wards moſt barbarouſly and inhumanly murthered and martyred. And although God, who taketh vengeance, ſuffered not that merciful <hi>David</hi> to avenge himſelf on you with his own hand, yet ſhall his <hi>Son Solomon</hi> ariſe, and bring you to condign puniſhment. What did more highly agravate, and more certainly preſage the approaching ruin of Jeruſalem, then their crucifying of their <hi>King,</hi> and prophaneing their <hi>Temple?</hi> And (as I have ſaid before) have not ye alſo crucified your King? Have not yee likewiſe prophaned Gods Temple, the Metropolitan and Mother Church of this Nation; making her not only a Stable for your Horſes, but (which is worſe) a den of Thieves, and receptacle of prophane Miſcreants, as the preſent time witneſſeth? I fear alſo that your <hi>New Croſs</hi> will in the end crucifie her Inventers, whoſe unhappy heads might (ſurely) have found out ſome fitter place for a Market-houſe then St. <hi>Pauls Church-yard.</hi> Remember, I beſeech you, that when erſt the three Nations full ſorely ſmarted under the laſhes of an unnatural War, barbarous Plunderings and Impriſonments, this <hi>London</hi> in the mean time, like that myſtical Harlot, ſate as a Queen without ſorrow, bleſsing her ſelf in her abominations. And whence came the Rod (I tro) but from hence, from this factious and rebellious City? But though the Children were (as to God) juſtly chaſtened and corrected, yet the end of the Rod is <hi>to be burnt.</hi> Howſoever the Devill and your own carnal ſecurity at preſent may ſuggeſt to you the impoſsibility of this great thing; yet God (to whom no difficulty is inſuperable) will certainly bring it to paſs. Nor do I ſpeak this from a Principle of meer Reaſon, (though that doth more then ſufficiently evince it for your parts) but from a higher and more infallible Light then that is; whereunto if yee attend (as the Apoſtle ſaith in another caſe) yee ſhall do well. Truly, I muſt here imitate the Prophet ISAIAH's expression, and ſay, <hi>I have heard from the Lord, God of Hoſts a Deſtruction de ermined upon the city of London.</hi> Ye have lately had many friendly (though fearful) Viſitations by Fire, as undoubted preachers of this truth; and which falling ſo faſt upon the neck of each other, and ſo ſtrangely happening, could not (I am confident) but give occaſion to many of you to make the ſame Comentary upon them that I do here: Theſe I hope you will harken unto, if not to Mee; <hi>Shall there be evil in a City</hi> (my Brethren) <hi>and the Lord hath not done it? And ſhall a Trumpet be blown in the City, and the People not be afraid?</hi> Amos 3. 6.</p>
+            <p>Now, for as much as all the threatnings of God are conditionall, and with limitation, my humble requeſt and counſel unto you is, That yee redeem this ſmall remainder of time, which as yet remaineth in your power, That in the firſt place ye repent, and humble your ſelves before GOD for all your former abominations and evil practices, with faſting, and with weeping, and with mourning; crying mightily unto the Lord, that it would pleaſe his Divine Clemency to with-hold his juſt and heavy hand, and to ſpare your City. And that yee amend your wayes and your doings, and turn to the Lord your God with all your hearts and with all your ſouls, and with all your ſtrength; reforming (what in you lyeth) whatſoever hath been acted amiſs by you, ſince theſe times, both in Church and Civil Matters. Secondly, I exhort, that ye ſpeedily ſubmit and reconcile your ſelves to your King and rightful Soveraign, CHARLES STUART the Second, Son of the late King; <hi>the Man whoſe right it is, for God will give it him:</hi> And let him rather come to you with a white wan in his hand, then a flaming ſword. God (I ſay) will certainly reſtore him, to the unſpeak<g ref="char:EOLhyphen"/>able conſolation of our diſtreſſed Church; but to the ruine and perpetual infamie of his Enemies, and of this City in particular, except yee repent. Wherefore ſubmit, ſubmit, and proſtrate your ſelves before him, (ye may well do it, like the <hi>Syrians,</hi> with ropes about your necks;) for ſo doing, who knoweth but that the Lord may repent him of the Evill and avert this Judgment from you? But if otherwiſe, expect your appointed ruine, and thy deſtruction is of thy ſelf, O London, thy blood be upon thine own head.</p>
+            <p>I had not thus appeared to your Citie under a vail, but that being ſenſible of the perverſe and contrary temper of this Age (eſpecially this City) unto the things of God, and which make not for the intereſt of Rebellion and Treaſon, I was therefore conſtrained to make uſe of this way of publiſhing. Had I undertaken (as <hi>Jonah)</hi> to proclaim this Matter by word of mouth, I much queſtion whether I ſhould have been permitted <hi>ten words</hi> in any the leaſt corner of your Citie, without the interruption of a Conſtable, and conſequently a Jaylor, whoſe hands might haply have been ſtrong enough not only to have with-holden me from my duty, but alſo theſe Premiſes from your timely ſight and cognizance. But I wiſh the <hi>Ninivites</hi> may not riſe up in Judgment with this generation and condemn it; for they immediately repented at the preaching of <hi>Jonas;</hi> but Yee have not as yet repented theſe many yeers at the preaching of the <hi>Goſpel.</hi> They believed the good Word of God, and humbled themſelves before him with faſting and prayer: but Yee (alas!) have disbelieved his Word, deſpiſed his Miniſters, and many of you rejected, yea denied, the Lord that bought you. And when theſe ſad and never-enough to be lamented Times have called to faſting, and to weeping, and to prayer and girding with ſackcloth, behold joy and gladneſs, ſlaying oxen and killing ſheep, eating fleſh and drinking wine; behold blaſphemy, and prophaneneſs, and pride, &amp; oppreſsion, and vanity, few of you being grieved for the affliction of JOSEPH. God open your hearts that you may underſtand the truth, and convert, and be ſaved, through Chriſt Jeſus.</p>
+            <closer>Amen.</closer>
+            <closer>Halelujah.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
